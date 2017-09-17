@@ -1,2 +1,6 @@
 # hello-world
-My hello world repository to follow the intro guide
+
+Hello, world!
+
+Beautiful is better than ugly.
+This hello world repository of mine is quite beautiful.
